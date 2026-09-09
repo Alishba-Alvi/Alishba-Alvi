@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: Alishba-Alvi
           outputs: |
-            dist/github-snake.svg?color_snake=%23ff5c8a&color_dots=170821,3a1848,c9184a,e0483f,ffcf6b
-            dist/github-snake-dark.svg?color_snake=%23ff5c8a&color_dots=170821,3a1848,c9184a,e0483f,ffcf6b
+            dist/github-snake.svg?color_snake=%233a1848&color_dots=eee4f0,ffc2d1,ff6f96,e0483f,ffcf6b
+            dist/github-snake-dark.svg?color_snake=%233a1848&color_dots=eee4f0,ffc2d1,ff6f96,e0483f,ffcf6b
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
