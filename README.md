@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://cdn.statically.io/gh/Alishba-Alvi/Alishba-Alvi/main/assets/banner.svg"
+  src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg"
   alt="banner"
   width="100%"
 />
