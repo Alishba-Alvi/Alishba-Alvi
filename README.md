@@ -1,32 +1,37 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO -->
+<!-- HERO — hand-coded, no external banner image -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FF2A6D,50:C71585,100:5DD9FF&height=220&section=header&text=Alishba%20Riasat&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Building%20RouteM8%20%26%20Apex%201%20Analytics&descAlignY=58&descSize=18&descColor=D7D9E0" alt="Alishba Riasat — Full-Stack Developer" width="100%" />
+```
+   ┌─────────────────────────────────────────────────────┐
+   │                                                       │
+   │    ▓▓▓  A L I S H B A   R I A S A T  ▓▓▓             │
+   │                                                       │
+   │    > full-stack developer_                           │
+   │    > crafting RouteM8 & Apex 1 Analytics              │
+   │    > loading pixels since 2021...                    │
+   │                                                       │
+   └─────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=800&color=5DD9FF&background=171923&center=true&vCenter=true&repeat=true&width=680&height=60&lines=Hi%2C+I'm+Alishba.%3BI+build+RouteM8+%26+Apex+1+Analytics.%3BFull-Stack+Developer" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF6B91?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171923" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LINKEDIN-FF2E63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn"/>
+</a>&nbsp;
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://img.shields.io/badge/GitHub-5DD9FF?style=for-the-badge&logo=github&logoColor=171923&labelColor=171923" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:alishbariasatawan@example.com">
-  <img src="https://img.shields.io/badge/Email-FF8A5B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171923" alt="Email"/>
-</a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FF2A6D&label=VISITORS&labelColor=171923" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/GITHUB-08D9D6?style=for-the-badge&logo=github&logoColor=0D0221&labelColor=0D0221" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:alishbariasat123@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-F7B32B?style=for-the-badge&logo=gmail&logoColor=0D0221&labelColor=0D0221" alt="Email"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=7B2CBF&label=VISITORS&labelColor=0D0221" alt="Profile Views"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0D0221,50:FF2E63,100:08D9D6&height=6&section=footer" width="100%"/>
 
 <br/>
 
@@ -34,62 +39,52 @@
 <!-- STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `stack`
-
-<img src="https://skillicons.dev/icons?i=react,redux,ts,nestjs,nodejs,postgres,mongodb,docker,aws,figma" alt="Tech Stack" />
+<img src="https://img.shields.io/badge/⚡_TECH_LOADOUT-08D9D6?style=for-the-badge&labelColor=0D0221" alt="stack"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+```
+> equip.stack --all
 
-<br/>
+  ⚡ React        ⚡ Redux        ⚡ TypeScript
+  ⚡ NestJS       ⚡ Node.js      ⚡ PostgreSQL
+  ⚡ MongoDB      ⚡ Docker       ⚡ AWS
+  ⚡ Figma
+```
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `pinned projects`
-
-<br/>
-
-<a href="https://github.com/Alishba-Alvi/RouteM8">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alishba-Alvi&repo=RouteM8&bg_color=171923&title_color=FF6B91&icon_color=5DD9FF&text_color=D7D9E0&hide_border=true" alt="RouteM8" width="45%"/>
-</a>&nbsp;
-<a href="https://github.com/Alishba-Alvi/Apex-1-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alishba-Alvi&repo=Apex-1-Analytics&bg_color=171923&title_color=FF6B91&icon_color=5DD9FF&text_color=D7D9E0&hide_border=true" alt="Apex 1 Analytics" width="45%"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,redux,ts,nestjs,nodejs,postgres,mongodb,docker,aws,figma&theme=dark" alt="Tech Stack" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:08D9D6,50:F7B32B,100:FF2E63&height=6&section=footer" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB -->
+<!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `github`
+<img src="https://img.shields.io/badge/📊_GITHUB_STATS-FF2E63?style=for-the-badge&labelColor=0D0221" alt="github"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=171923&title_color=FF6B91&icon_color=5DD9FF&text_color=D7D9E0&ring_color=FF6B91&include_all_commits=true&count_private=true" alt="GitHub Stats" width="390px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=0D0221&title_color=08D9D6&icon_color=F7B32B&text_color=D7D9E0&ring_color=FF2E63&include_all_commits=true&count_private=true" alt="GitHub Stats" width="390px"/>
 </a>
 
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=171923&title_color=FF6B91&text_color=D7D9E0" alt="Top Languages" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=0D0221&title_color=08D9D6&text_color=D7D9E0" alt="Top Languages" width="300px"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=171923&stroke=FF6B91&ring=5DD9FF&fire=FF8A5B&currStreakLabel=FF6B91&sideLabels=5DD9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F93A3" alt="GitHub Streak" width="700px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=0D0221&stroke=FF2E63&ring=08D9D6&fire=F7B32B&currStreakLabel=08D9D6&sideLabels=F7B32B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8F93A3" alt="GitHub Streak" width="700px"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FF2E63,50:7B2CBF,100:08D9D6&height=6&section=footer" width="100%"/>
 
 <br/>
 
@@ -97,9 +92,9 @@
 <!-- CONTRIBUTIONS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `contributions`
+<img src="https://img.shields.io/badge/🐍_CONTRIBUTIONS-F7B32B?style=for-the-badge&labelColor=0D0221" alt="contributions"/>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
@@ -109,7 +104,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:08D9D6,50:FF2E63,100:F7B32B&height=6&section=footer" width="100%"/>
 
 <br/>
 
@@ -117,20 +112,20 @@
 <!-- HIGHLIGHTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `highlights`
+<img src="https://img.shields.io/badge/🏆_HIGHLIGHTS-7B2CBF?style=for-the-badge&labelColor=0D0221" alt="highlights"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Alvi&theme=radical&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8&title_color=FF6B91&curr_streak_color=5DD9FF&side_bg_color=171923&ring_color=FF8A5B&badge_color=171923" alt="GitHub Trophies" width="88%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Alvi&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8&title_color=08D9D6&icon_color=F7B32B&text_color=D7D9E0&border_color=FF2E63" alt="GitHub Trophies" width="88%"/>
 </a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:F7B32B,50:08D9D6,100:FF2E63&height=6&section=footer" width="100%"/>
 
 <br/>
 
-### `let's build something together.`
+<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_TOGETHER-0D0221?style=for-the-badge&labelColor=FF2E63" alt="let's build something together"/>
 
 </div>
