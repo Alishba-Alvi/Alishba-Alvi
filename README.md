@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-email.svg?v=238ccf1" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- THE NEXT COMMIT / CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
