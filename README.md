@@ -8,6 +8,7 @@
   src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg"
   alt="banner"
   width="100%"
+  height="80%"
 />
 
 <br/><br/>
