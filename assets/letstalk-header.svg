@@ -25,11 +25,8 @@
     </rect>
   </g>
 
-  <g>
-    <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="2.2s" repeatCount="indefinite" additive="sum"/>
-    <text x="252" y="49" font-size="42" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
-    <text x="248" y="45" font-size="42" font-weight="bold" fill="url(#txt)" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
-  </g>
+  <text x="252" y="49" font-size="42" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
+  <text x="248" y="45" font-size="42" font-weight="bold" fill="url(#txt)" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
 
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="2.2s" repeatCount="indefinite"/>
