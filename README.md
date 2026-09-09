@@ -15,14 +15,14 @@
 <br/><br/>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ SOCIAL BADGES ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Pixel-themed social media buttons with yellow, pink, and mint-green arcade styling. -->
+<!-- Pixel-themed social media buttons with yellow, pink, and mint-green arcade styling. Visitors counter text forced to black via color parameter. -->
 <a href="https://www.linkedin.com/in/alishba-riasat/">
   <img src="https://img.shields.io/badge/LinkedIn-FF66C4?style=for-the-badge&logo=linkedin&logoColor=black&color=FFD166&labelColor=121212" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Alishba-Alvi">
   <img src="https://img.shields.io/badge/GitHub-06D6A0?style=for-the-badge&logo=github&logoColor=black&color=FF66C4&labelColor=121212" alt="GitHub"/>
 </a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FFD166&label=VISITORS&labelColor=121212" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FFD166&label=VISITORS&labelColor=FF66C4&color=000000" alt="Profile Views"/>
 
 <br/><br/>
 <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
