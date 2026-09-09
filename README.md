@@ -4,7 +4,7 @@
 <!-- BANNER — pixel style, dark pink -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0D0221,50:C9184A,100:FF4D6D&height=200&section=header&text=Alishba%20Riasat&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=FFD6E0" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:C9184A,100:FF4D6D&height=200&section=header&text=Alishba%20Riasat&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=FFD6E0" alt="banner" width="100%" />
 
 <br/><br/>
 
@@ -14,7 +14,6 @@ Final-year Software Engineering student, currently interning at Systems Limited.
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/Alishba-Alvi?label=FOLLOWERS&style=for-the-badge&color=FF4D6D&labelColor=0D0221" alt="followers"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FF4D6D&label=PROFILE+VIEWS&labelColor=0D0221" alt="views"/>
 
 <br/><br/>
@@ -27,11 +26,11 @@ Final-year Software Engineering student, currently interning at Systems Limited.
 
 <div align="left" width="80%">
 
-▸ Final-year Software Engineering student at NTU Faisalabad
-▸ Interning at Systems Limited, building real-world features end to end
-▸ Built RouteM8 — a Flutter/Firebase campus carpooling app
-▸ Built Apex 1 Analytics — an F1 race intelligence platform
-▸ Working across the MERN stack and Flutter for mobile
+- Final-year Software Engineering student at NTU Faisalabad
+- Interning at Systems Limited, building real-world features end to end
+- Built RouteM8 — a Flutter/Firebase campus carpooling app
+- Built Apex 1 Analytics — an F1 race intelligence platform
+- Working across the MERN stack and Flutter for mobile
 
 </div>
 
@@ -96,6 +95,6 @@ Final-year Software Engineering student, currently interning at Systems Limited.
 
 **See you in the next commit.**
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FF4D6D,50:C9184A,100:0D0221&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:C9184A,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
