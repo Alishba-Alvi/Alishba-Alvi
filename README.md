@@ -4,7 +4,7 @@
 <!-- BANNER — pixel style, dark pink -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/banner.svg" alt="banner" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg" alt="banner" width="100%" />
 
 <br/><br/>
 
