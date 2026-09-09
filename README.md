@@ -4,33 +4,15 @@
 <!-- BANNER — pixel style, dark pink -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/banner.svg" alt="banner" width="100%" />
-
-<br/><br/>
-
-## Hey there, I'm Alishba
-
-Final-year Software Engineering student.
-
-<br/>
-
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg" alt="banner" width="100%" />
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-### About Me
+<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FF4D6D&label=PROFILE+VIEWS&labelColor=0D0221" alt="views"/>
 
-<div align="left" width="80%">
-
-- Final-year Software Engineering student at NTU Faisalabad
-- Interning at Systems Limited, building real-world features end to end
-- Built RouteM8 — a Flutter/Firebase campus carpooling app
-- Built Apex 1 Analytics — an F1 race intelligence platform
-- Working across the MERN stack and Flutter for mobile
+<br/><br/>
 
 </div>
 
