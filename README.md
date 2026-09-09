@@ -42,25 +42,27 @@
 
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS & STREAK GRID (LIGHT THEME) ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Compact 3-card grid styled with a clean light theme palette, matching the smaller footprint of the first card -->
+<div align="center">
+
+<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS & STREAK GRID (COMPACT EQUIVALENT SIZE) ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- All three cards sized equivalently (~340px wide) and arranged in a clean grid using the deep forest-to-magenta palette from your image -->
 <table align="center" style="border: none; background: transparent;">
   <tr>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding: 4px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=D946EF&icon_color=06B6D4&text_color=4B5563&ring_color=D946EF&hide_title=false" alt="GitHub Stats" width="380px" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=192026&title_color=34D399&icon_color=38BDF8&text_color=94A3B8&ring_color=34D399&hide_title=false" alt="GitHub Stats" width="340px" />
       </a>
     </td>
-    <td align="center" style="padding: 6px;">
+    <td align="center" style="padding: 4px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=D946EF&text_color=06B6D4" alt="Top Languages" width="380px" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=192026&title_color=34D399&text_color=38BDF8" alt="Top Languages" width="340px" />
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 6px;">
+    <td colspan="2" align="center" style="padding: 4px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=FAFAFA&stroke=D946EF&ring=06B6D4&fire=F97316&currStreakLabel=D946EF&sideLabels=06B6D4&currStreakNum=1F2937&sideNums=1F2937&dates=4B5563" alt="GitHub Streak" width="770px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=192026&stroke=34D399&ring=818CF8&fire=C084FC&currStreakLabel=34D399&sideLabels=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="692px" />
       </a>
     </td>
   </tr>
