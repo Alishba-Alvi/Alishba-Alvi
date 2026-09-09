@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓  ANIMATED BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
 
-<img src="./retro_pixel_banner.jpg" alt="Alishba Alvi — Full-Stack Developer" width="100%" />
+<img src="./retro_pixel_banner.svg" alt="Alishba Alvi — Full-Stack Developer" width="100%" />
 
 <br/>
 
