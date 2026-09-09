@@ -1,0 +1,49 @@
+<svg width="560" height="76" viewBox="0 0 560 76" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="txt2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3fd0e0"/>
+      <stop offset="100%" stop-color="#ffcf6b"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="2.1s" repeatCount="indefinite"/>
+    <polygon points="28,26 36,42 20,42" fill="#3fd0e0">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.1s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-16; 0,0" dur="2.5s" repeatCount="indefinite"/>
+    <polygon points="48,10 56,26 40,26" fill="#7fe8d8">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="1.9s" repeatCount="indefinite"/>
+    <polygon points="68,-4 76,12 60,12" fill="#ffcf6b">
+      <animate attributeName="opacity" values="1;0.5;1" dur="1.9s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <text x="282" y="49" font-size="36" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="3">THE NEXT COMMIT</text>
+  <text x="278" y="45" font-size="36" font-weight="bold" fill="url(#txt2)" text-anchor="middle" letter-spacing="3">THE NEXT COMMIT</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="2.3s" repeatCount="indefinite"/>
+    <polygon points="532,26 540,42 524,42" fill="#3fd0e0">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.3s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-16; 0,0" dur="2s" repeatCount="indefinite"/>
+    <polygon points="512,10 520,26 504,26" fill="#7fe8d8">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-14; 0,0" dur="2.7s" repeatCount="indefinite"/>
+    <polygon points="492,-4 500,12 484,12" fill="#ffcf6b">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2.7s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+</svg>
