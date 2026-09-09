@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg?v=238ccf1"
+  src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg?v=f063db5"
   alt="banner"
   width="100%"
 />
@@ -16,15 +16,15 @@
 <!-- LET'S TALK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/letstalk-header.svg?v=238ccf1" alt="Let's talk"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/letstalk-header.svg?v=f063db5" alt="Let's talk"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-linkedin.svg?v=238ccf1" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-linkedin.svg?v=f063db5" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:alishbariasatawan@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-email.svg?v=238ccf1" alt="Email"/>
+  <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-email.svg?v=f063db5" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 <!-- THE NEXT COMMIT / CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/activitylog-header.svg?v=238ccf1" alt="The Next Commit"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/activitylog-header.svg?v=f063db5" alt="The Next Commit"/>
 
 <br/><br/>
 
