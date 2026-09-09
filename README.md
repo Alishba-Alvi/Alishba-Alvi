@@ -4,7 +4,7 @@
 <!-- BANNER — pixel style, dark pink -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:C9184A,100:FF4D6D&height=200&section=header&text=Alishba%20Riasat&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=FFD6E0" alt="banner" width="100%" />
+<img src="./assets/banner.svg" alt="banner" width="100%" />
 
 <br/><br/>
 
