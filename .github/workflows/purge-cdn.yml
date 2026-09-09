@@ -15,7 +15,7 @@ jobs:
 
       - name: Purge jsDelivr cache for all assets
         run: |
-          for file in banner.svg badge-linkedin.svg badge-email.svg letstalk-header.svg; do
+          for file in banner.svg badge-linkedin.svg badge-email.svg letstalk-header.svg activitylog-header.svg; do
             echo "Purging $file..."
             curl -s "https://purge.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/$file"
             echo ""
