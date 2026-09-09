@@ -1,24 +1,20 @@
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓ ANIMATED PIXEL INTRO & BANNER ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Illustrated animated pixel background layered behind the typing intro using HTML/CSS overlay -->
-<div style="position: relative; width: 100%; max-height: 250px; overflow: hidden; border-radius: 12px; background: #1A1A24; display: flex; align-items: center; justify-content: center; padding: 40px 0;">
-  
-  <!-- Animated Pixel Art Background Scenery (Looping Retro Landscape/Stars) -->
-  <img src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/assets/pixel-banner.gif" alt="Pixel Art Background" style="position: absolute; width: 100%; height: 100%; object-fit: cover; opacity: 0.4; pointer-events: none;" />
+<!-- ▓▓▓▓▓▓▓▓▓▓ ANIMATED BANNER ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Custom Pixel Art Banner -->
+<img src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/assets/pixel-banner.gif" alt="Alishba Riasat — Full-Stack Developer" width="100%" />
 
-  <!-- Foreground Content Container -->
-  <div style="position: relative; z-index: 2; text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=800&color=FF2A6D&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi%2C%20alishba%20here.%3BFull-Stack%20Developer" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+<br/><br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓ PIXEL INTRO ▓▓▓▓▓▓▓▓▓▓ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=800&color=FF2A6D&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi%2C%20alishba%20here.%3BFull-Stack%20Developer" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ SOCIAL BADGES & VISITORS ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- LinkedIn button in dark pink (#C71585), GitHub in blue/cherry, and visitor count with black text -->
+<!-- LinkedIn button updated with dark pink badge background (#C71585), GitHub with cherry red/blue, and visitor count with black text -->
 <a href="https://www.linkedin.com/in/alishba-riasat/">
   <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white&color=C71585&labelColor=1A1A24" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
