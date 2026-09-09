@@ -1,19 +1,37 @@
-<svg width="500" height="90" viewBox="0 0 500 90" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+<svg width="500" height="70" viewBox="0 0 500 70" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
   <defs>
     <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ff9db3"/>
       <stop offset="100%" stop-color="#ffcf6b"/>
     </linearGradient>
   </defs>
-  <rect x="20" y="38" width="14" height="14" fill="#ff5c8a"/>
-  <rect x="38" y="24" width="14" height="14" fill="#ff9db3"/>
-  <rect x="56" y="10" width="14" height="14" fill="#ffcf6b"/>
-  <text x="252" y="58" font-size="42" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
-  <text x="248" y="54" font-size="42" font-weight="bold" fill="url(#txt)" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
-  <rect x="466" y="38" width="14" height="14" fill="#ff5c8a"/>
-  <rect x="448" y="24" width="14" height="14" fill="#ff9db3"/>
-  <rect x="430" y="10" width="14" height="14" fill="#ffcf6b"/>
-  <circle cx="250" cy="78" r="3" fill="#ffe9a8">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="2.8s" repeatCount="indefinite"/>
+    <rect x="20" y="30" width="14" height="14" fill="#ff5c8a"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="3.3s" repeatCount="indefinite"/>
+    <rect x="38" y="16" width="14" height="14" fill="#ff9db3"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="2.5s" repeatCount="indefinite"/>
+    <rect x="56" y="4" width="14" height="14" fill="#ffcf6b"/>
+  </g>
+
+  <text x="252" y="46" font-size="42" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
+  <text x="248" y="42" font-size="42" font-weight="bold" fill="url(#txt)" text-anchor="middle" letter-spacing="4">LET'S TALK</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="3s" repeatCount="indefinite"/>
+    <rect x="466" y="30" width="14" height="14" fill="#ff5c8a"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="2.6s" repeatCount="indefinite"/>
+    <rect x="448" y="16" width="14" height="14" fill="#ff9db3"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.1s" repeatCount="indefinite"/>
+    <rect x="430" y="4" width="14" height="14" fill="#ffcf6b"/>
+  </g>
 </svg>
