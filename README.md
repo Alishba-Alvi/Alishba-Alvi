@@ -41,41 +41,33 @@
 <br/><br/>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS ▓▓▓▓▓▓▓▓▓▓ -->
-## `>> PLAYER_STATS <<`
+<div align="center">
 
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS ▓▓▓▓▓▓▓▓▓▓ -->
-## `>> PLAYER_STATS <<`
-
-<br/>
-
-<!-- Main Stats Card -->
-<table align="center">
+<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS & STREAK GRID ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Grid layout featuring compact cards using a cohesive, premium retro-arcade pastel & neon palette -->
+<table align="center" style="border: none; background: transparent;">
   <tr>
-    <td>
+    <td align="center" style="padding: 6px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&icon_color=05D9E8&text_color=FF5E7E&ring_color=FF2A6D&hide_title=false" alt="Alishba-Alvi's GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=16131F&title_color=FF79C6&icon_color=8BE9FD&text_color=BD93F9&ring_color=FF79C6&hide_title=false" alt="GitHub Stats" width="410px" />
       </a>
     </td>
-    <td>
+    <td align="center" style="padding: 6px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&text_color=05D9E8" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=16131F&title_color=FF79C6&text_color=8BE9FD" alt="Top Languages" width="410px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 6px;">
+      <a href="https://github.com/Alishba-Alvi">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=16131F&stroke=FF79C6&ring=8BE9FD&fire=FFB86C&currStreakLabel=FF79C6&sideLabels=8BE9FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BD93F9" alt="GitHub Streak" width="832px" />
       </a>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=1A1A24&stroke=FF2A6D&ring=05D9E8&fire=FF5E7E&currStreakLabel=FF2A6D&sideLabels=05D9E8&currStreakNum=ffffff&sideNums=ffffff&dates=FF5E7E" alt="GitHub Streak" width="100%" />
-</a>
-
-<br/><br/>
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
-<br/><br/>
+</div>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ CONTRIBUTIONS ▓▓▓▓▓▓▓▓▓▓ -->
 ## `>> WORLD_MAP <<`
