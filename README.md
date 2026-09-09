@@ -1,157 +1,117 @@
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  ANIMATED BANNER  ▓▓▓▓▓▓▓▓▓▓ -->
-
-<img src="./retro_pixel_banner.svg" alt="Alishba Alvi — Full-Stack Developer" width="100%" />
-
-<br/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=550&height=60&lines=%3E+Full-Stack+Developer;%3E+React+%7C+NestJS+%7C+PostgreSQL;%3E+Building+pixel-perfect+experiences" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=ff69b4&label=VISITORS" alt="Profile Views"/>
+<!-- ▓▓▓▓▓▓▓▓▓▓ 1. BANNER HEADER ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- This creates a clean, aesthetic pastel-toned header box at the top instead of a plain text title -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,30,35&height=150&section=header&text=Alishba%20Alvi&fontSize=36&fontColor=ffb7b2&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20|%20React%20%7C%20NestJS&descSize=14&descColor=e2f0cb" alt="Banner" width="100%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+<!-- ▓▓▓▓▓▓▓▓▓▓ 2. QUICK ACTIONS / SOCIAL BAR ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Quick clickable badges for your links and profile views counter -->
+<a href="https://www.linkedin.com/in/alishba-riasat/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB7B2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/Alishba-Alvi">
+  <img src="https://img.shields.io/badge/GitHub-FFDAC1?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=ffb7b2&label=VISITORS&labelColor=1a1a1a" alt="Views"/>
 
-<br/>
+<br/><br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓ -->
-
-## `> TECH STACK_`
-
-<br/>
-
+<!-- ▓▓▓▓▓▓▓▓▓▓ 3. MAIN GRID SYSTEM START ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- We use HTML table tags (`<table>`, `<tr>`, `<td>`) to lay everything out in a structured, multi-column grid layout rather than a vertical scrolling document. -->
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br/><b>React</b>
+
+<!-- ROW 1, COLUMN 1: TECH STACK GRID -->
+<td width="50%" valign="top" align="center">
+  <h3>TECH STACK</h3>
+  <br/>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/><br/>Redux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS"/><br/>TS</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nest"/><br/>NestJS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node"/><br/>Node</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PG"/><br/>Postgres</td>
+    </tr>
+  </table>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br/><b>Redux</b>
+
+<!-- ROW 1, COLUMN 2: GITHUB STATS -->
+<td width="50%" valign="top" align="center">
+  <h3>STATS</h3>
+  <br/>
+  <a href="https://github.com/Alishba-Alvi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=161b22&title_color=ffb7b2&icon_color=ffdac1&text_color=e2f0cb&ring_color=ffb7b2&rank_icon=github" width="100%" alt="Stats"/>
+  </a>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br/><b>TypeScript</b>
+
+</tr>
+<tr>
+
+<!-- ROW 2, COLUMN 1: TOP LANGUAGES -->
+<td width="50%" valign="top" align="center">
+  <h3>TOP LANGUAGES</h3>
+  <br/>
+  <a href="https://github.com/Alishba-Alvi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=161b22&title_color=ffb7b2&text_color=e2f0cb" width="100%" alt="Langs"/>
+  </a>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-<br/><b>NestJS</b>
+
+<!-- ROW 2, COLUMN 2: GITHUB STREAK -->
+<td width="50%" valign="top" align="center">
+  <h3>STREAK</h3>
+  <br/>
+  <a href="https://github.com/Alishba-Alvi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=161b22&stroke=ffb7b2&ring=ffb7b2&fire=ffdac1&currStreakLabel=ffb7b2&sideLabels=ffb7b2&currStreakNum=ffffff&sideNums=ffffff&dates=b5ead7" width="100%" alt="Streak"/>
+  </a>
 </td>
-<td align="center" width="140">
-<img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="48" height="48" alt="TypeORM" />
-<br/><b>TypeORM</b>
+
+</tr>
+<tr>
+
+<!-- ROW 3: FULL-WIDTH ACTIVITY GRAPH (Span across both columns) -->
+<td colspan="2" align="center">
+  <h3>ACTIVITY</h3>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=161b22&color=ffb7b2&line=ffdac1&point=ffffff&area_color=b5ead7&area=true&hide_border=true" width="95%" alt="Activity"/>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br/><b>PostgreSQL</b>
+
+</tr>
+<tr>
+
+<!-- ROW 4: FULL-WIDTH TROPHIES -->
+<td colspan="2" align="center">
+  <h3>TROPHIES</h3>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Alvi&theme=onedark&no-frame=true&no-bg=true&column=5&margin-w=10&margin-h=10" width="95%" alt="Trophies"/>
 </td>
+
+</tr>
+<tr>
+
+<!-- ROW 5: FULL-WIDTH CONTRIBUTIONS SNAKE ANIMATION -->
+<td colspan="2" align="center">
+  <h3>CONTRIBUTIONS</h3>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake.svg" />
+    <img alt="Snake" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" width="95%"/>
+  </picture>
+</td>
+
 </tr>
 </table>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,redux,ts,nestjs,postgres&theme=dark" alt="Tech Stack Icons"/>
+<!-- ▓▓▓▓▓▓▓▓▓▓ GRID SYSTEM END ▓▓▓▓▓▓▓▓▓▓ -->
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓ -->
-
-## `> STATS_`
-
-<br/>
-
-<a href="https://github.com/Alishba-Alvi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF69B4&text_color=FFFFFF&ring_color=FF69B4&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Alishba-Alvi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF69B4&fire=FF69B4&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=0D1117&color=00F7FF&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  SNAKE  ▓▓▓▓▓▓▓▓▓▓ -->
-
-## `> CONTRIBUTIONS_`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
-</picture>
-
-> _Set up the [snake workflow](https://github.com/Platane/snk) in your profile repo to activate this!_
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓ -->
-
-## `> TROPHIES_`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alishba-Alvi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="95%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓ -->
-
-## `> LET'S CONNECT_`
-
-<br/>
-
-<a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" height="40"/>
-</a>
-
-<br/><br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- ▓▓▓▓▓▓▓▓▓▓ FOOTER WAVY BANNER ▓▓▓▓▓▓▓▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,30,35&height=80&section=footer&animation=fadeIn"/>
 
 </div>
