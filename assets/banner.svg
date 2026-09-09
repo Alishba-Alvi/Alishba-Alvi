@@ -416,6 +416,7 @@
       <text x="6868.8" y="611.0" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="'Courier New', monospace">GitHub</text>
       </g>
     </g>
+    
     <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#150a1f" stop-opacity="1"/>
       <stop offset="100%" stop-color="#150a1f" stop-opacity="0"/>
@@ -427,6 +428,5 @@
     <rect x="0" y="560" width="60" height="100" fill="url(#fadeL)"/>
     <rect x="1540" y="560" width="60" height="100" fill="url(#fadeR)"/>
   </g>
-
   <rect x="1" y="36" width="1598" height="623" fill="none" stroke="#ff5c8a" stroke-opacity="0.35" stroke-width="2"/>
 </svg>
