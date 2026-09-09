@@ -14,9 +14,9 @@
 <br/><br/>
 
 <!-- ▓▓▓▓▓▓▓▓▓▓ SOCIAL BADGES & VISITORS ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Styled using blue, cherry red, and pink palette with black text for the visitor count -->
+<!-- LinkedIn button updated with dark pink badge background (#C71585), GitHub with cherry red/blue, and visitor count with black text -->
 <a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF2A6D?style=for-the-badge&logo=linkedin&logoColor=white&color=05D9E8&labelColor=1A1A24" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white&color=C71585&labelColor=1A1A24" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Alishba-Alvi">
   <img src="https://img.shields.io/badge/GitHub-FF5E7E?style=for-the-badge&logo=github&logoColor=white&color=005691&labelColor=1A1A24" alt="GitHub"/>
