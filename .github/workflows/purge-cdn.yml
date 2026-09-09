@@ -1,4 +1,4 @@
-name: Purge jsDelivr Cache
+name: Update Assets Cache
 
 on:
   push:
@@ -8,9 +8,11 @@ on:
       - 'assets/**'
 
 jobs:
-  purge:
+  update:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Purge jsDelivr cache for all assets
         run: |
           for file in banner.svg badge-linkedin.svg badge-email.svg letstalk-header.svg; do
@@ -18,3 +20,16 @@ jobs:
             curl -s "https://purge.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/$file"
             echo ""
           done
+
+      - name: Bump cache-buster on every asset URL in README
+        run: |
+          SHA=$(git rev-parse --short HEAD)
+          sed -i -E "s#(assets/[A-Za-z0-9_-]+\.svg)(\?v=[a-zA-Z0-9]+)?\"#\1?v=${SHA}\"#g" README.md
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: bust asset cache [skip ci]"
+          git push
