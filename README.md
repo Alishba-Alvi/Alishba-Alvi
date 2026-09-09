@@ -1,72 +1,72 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO -->
+<!-- BANNER — pixel style, dark pink -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Alishba%20Riasat&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20-%20Building%20RouteM8%20%26%20Apex%201%20Analytics&descAlignY=58&descSize=16&descColor=E0DEF4" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0D0221,50:C9184A,100:FF4D6D&height=200&section=header&text=Alishba%20Riasat&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=FFD6E0" alt="banner" width="100%" />
+
+<br/><br/>
+
+## Hey there, I'm Alishba
+
+Final-year Software Engineering student, currently interning at Systems Limited.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=BB9AF7&center=true&vCenter=true&repeat=true&width=560&height=40&lines=welcome+to+my+github;lets+build+something+together" alt="typing" />
+<img src="https://img.shields.io/github/followers/Alishba-Alvi?label=FOLLOWERS&style=for-the-badge&color=FF4D6D&labelColor=0D0221" alt="followers"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Alishba-Alvi&style=for-the-badge&color=FF4D6D&label=PROFILE+VIEWS&labelColor=0D0221" alt="views"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/alishba-riasat/">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1A1B27&style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=1A1B27&style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub"/>
-</a>&nbsp;
-<a href="mailto:alishbariasat123@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=Email&color=1A1B27&style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email"/>
-</a>&nbsp;
-<img src="https://img.shields.io/static/v1?label=VISITORS&message=68&color=1A1B27&style=for-the-badge&labelColor=1A1B27" alt="views"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br/><br/>
+### About Me
+
+<div align="left" width="80%">
+
+▸ Final-year Software Engineering student at NTU Faisalabad
+▸ Interning at Systems Limited, building real-world features end to end
+▸ Built RouteM8 — a Flutter/Firebase campus carpooling app
+▸ Built Apex 1 Analytics — an F1 race intelligence platform
+▸ Working across the MERN stack and Flutter for mobile
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/static/v1?label=&message=STACK&color=1A1B27&style=for-the-badge" alt="stack"/>
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,redux,ts,nestjs,nodejs,postgres,mongodb,docker,aws,figma&theme=dark" alt="stack" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,redux,ts,nestjs,nodejs,postgres,mongodb,docker,aws,figma&theme=dark" alt="Tech Stack" />
-
-<br/><br/><br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=1A1B27&style=for-the-badge" alt="github"/>
+### GitHub Analytics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=0D0221&color=FF4D6D&line=FF4D6D&point=FFFFFF&area=true&area_color=C9184A&hide_border=true" alt="activity graph" width="95%"/>
 
 <br/><br/>
 
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1A1B27&include_all_commits=true&count_private=true" alt="GitHub Stats" width="390px"/>
-</a>
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&theme=tokyonight&bg_color=1A1B27" alt="Top Languages" width="300px"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FF4D6D&icon_color=FF4D6D&text_color=FFD6E0&ring_color=FF4D6D&include_all_commits=true&count_private=true" alt="stats" width="390px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=0D0221&title_color=FF4D6D&text_color=FFD6E0" alt="languages" width="300px"/>
 
 <br/><br/>
 
-<a href="https://github.com/Alishba-Alvi">
-  <img src="https://streak-stats.demolab.com/?user=Alishba-Alvi&hide_border=true&theme=tokyonight&background=1A1B27" alt="GitHub Streak" width="700px"/>
-</a>
-
-<br/><br/><br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTIONS -->
+<!-- CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/static/v1?label=&message=CONTRIBUTIONS&color=1A1B27&style=for-the-badge" alt="contributions"/>
-
-<br/><br/>
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
@@ -74,22 +74,28 @@
   <img alt="snake" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" width="94%"/>
 </picture>
 
-<br/><br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HIGHLIGHTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/static/v1?label=&message=HIGHLIGHTS&color=1A1B27&style=for-the-badge" alt="highlights"/>
-
 <br/><br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/alishba-riasat/">
+  <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn"/>
+</a>&nbsp;
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Alvi&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8" alt="trophies" width="88%"/>
+  <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=333333&style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:alishbariasat123@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=D93025&style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+**See you in the next commit.**
+
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FF4D6D,50:C9184A,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
