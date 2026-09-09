@@ -40,28 +40,27 @@
 <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/assets/water.gif" width="100%"/>
 <br/><br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS ▓▓▓▓▓▓▓▓▓▓ -->
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS & STREAK GRID ▓▓▓▓▓▓▓▓▓▓ -->
-<!-- Grid layout featuring compact cards using a cohesive, premium retro-arcade pastel & neon palette -->
+<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS & STREAK GRID (LIGHT THEME) ▓▓▓▓▓▓▓▓▓▓ -->
+<!-- Compact 3-card grid styled with a clean light theme palette, matching the smaller footprint of the first card -->
 <table align="center" style="border: none; background: transparent;">
   <tr>
     <td align="center" style="padding: 6px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=16131F&title_color=FF79C6&icon_color=8BE9FD&text_color=BD93F9&ring_color=FF79C6&hide_title=false" alt="GitHub Stats" width="410px" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=D946EF&icon_color=06B6D4&text_color=4B5563&ring_color=D946EF&hide_title=false" alt="GitHub Stats" width="380px" />
       </a>
     </td>
     <td align="center" style="padding: 6px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=16131F&title_color=FF79C6&text_color=8BE9FD" alt="Top Languages" width="410px" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=D946EF&text_color=06B6D4" alt="Top Languages" width="380px" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 6px;">
       <a href="https://github.com/Alishba-Alvi">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=16131F&stroke=FF79C6&ring=8BE9FD&fire=FFB86C&currStreakLabel=FF79C6&sideLabels=8BE9FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BD93F9" alt="GitHub Streak" width="832px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=FAFAFA&stroke=D946EF&ring=06B6D4&fire=F97316&currStreakLabel=D946EF&sideLabels=06B6D4&currStreakNum=1F2937&sideNums=1F2937&dates=4B5563" alt="GitHub Streak" width="770px" />
       </a>
     </td>
   </tr>
