@@ -5,10 +5,7 @@
   alt="banner"
   width="100%"
 />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/letstalk-header.svg" alt="Let's talk"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/letstalk-header.svg?v=1" alt="Let's talk"/>
 
 <br/>
 
