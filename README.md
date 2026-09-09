@@ -45,21 +45,32 @@
 
 <br/>
 
+<!-- ▓▓▓▓▓▓▓▓▓▓ GITHUB STATS ▓▓▓▓▓▓▓▓▓▓ -->
+## `>> PLAYER_STATS <<`
+
+<br/>
+
 <!-- Main Stats Card -->
-<a href="https://github.com/Alishba-Alvi">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&icon_color=05D9E8&text_color=FF5E7E&ring_color=FF2A6D&hide_title=false" alt="Alishba-Alvi's GitHub Stats" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Alishba-Alvi">
+        <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&icon_color=05D9E8&text_color=FF5E7E&ring_color=FF2A6D&hide_title=false" alt="Alishba-Alvi's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Alishba-Alvi">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&text_color=05D9E8" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Top Languages Card -->
-<a href="https://github.com/Alishba-Alvi">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=1A1A24&title_color=FF2A6D&text_color=05D9E8" alt="Top Languages" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/Alishba-Alvi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=1A1A24&stroke=FF2A6D&ring=05D9E8&fire=FF5E7E&currStreakLabel=FF2A6D&sideLabels=05D9E8&currStreakNum=ffffff&sideNums=ffffff&dates=FF5E7E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&hide_border=true&background=1A1A24&stroke=FF2A6D&ring=05D9E8&fire=FF5E7E&currStreakLabel=FF2A6D&sideLabels=05D9E8&currStreakNum=ffffff&sideNums=ffffff&dates=FF5E7E" alt="GitHub Streak" width="100%" />
 </a>
 
 <br/><br/>
