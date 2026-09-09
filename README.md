@@ -37,12 +37,12 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=00000000&title_color=C23E75&icon_color=9B2F5E&text_color=A67C89&hide_rank=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=00000000&title_color=C23E75&text_color=A67C89&langs_count=6" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Alishba-Alvi&show_icons=true&hide_border=true&bg_color=00000000&title_color=C23E75&icon_color=9B2F5E&text_color=A67C89&hide_rank=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alishba-Alvi&layout=compact&hide_border=true&bg_color=00000000&title_color=C23E75&text_color=A67C89&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Alvi&background=00000000&border=0000&stroke=EEE3E7&ring=C23E75&fire=C23E75&currStreakLabel=9B2F5E&sideLabels=A67C89&currStreakNum=1E1120&sideNums=1E1120&dates=A67C89" />
+  <img src="https://streak-stats.demolab.com/?user=Alishba-Alvi&background=00000000&border=0000&stroke=EEE3E7&ring=C23E75&fire=C23E75&currStreakLabel=9B2F5E&sideLabels=A67C89&currStreakNum=1E1120&sideNums=1E1120&dates=A67C89" />
 </div>
 
 <br><br>
