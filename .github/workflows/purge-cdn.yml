@@ -1,0 +1,16 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'assets/banner.svg'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache for banner.svg
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/banner.svg"
