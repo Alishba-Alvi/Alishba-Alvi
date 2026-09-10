@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=1" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
 <br/><br/>
 
@@ -37,11 +37,11 @@
 <!-- METRICS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img alt="metrics" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/dist/metrics.svg?v=4" width="95%"/>
+<img alt="metrics" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/dist/metrics.svg?v=5" width="95%"/>
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=1" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
 <br/><br/>
 
@@ -70,6 +70,6 @@
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/nextcommit-footer.svg?v=1" alt="See you in the next commit" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/nextcommit-footer.svg?v=2" alt="See you in the next commit" width="100%"/>
 
 </div>
