@@ -27,11 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/badge-email.svg?v=4f5a638" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CURRENTLY WORKING IN -->
