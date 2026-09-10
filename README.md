@@ -31,7 +31,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CURRENTLY WORKING IN (skillicons — compact, no cache issues) -->
@@ -39,17 +39,17 @@
 
 <img src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/assets/currentlyworking-header.svg" alt="Currently Working In"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,git,figma&theme=dark" alt="Tech Stack"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
-<br/><br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ACTIVITY GRAPH -->
@@ -61,14 +61,14 @@
   width="100%"
 />
 
-<br/><br/>
+<br/>
 
 <img
   src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2"
   alt=""
 />
 
-<br/><br/>
+<br/>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
