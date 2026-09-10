@@ -54,8 +54,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=170821&color=ff9db3&line=ff2e9a&point=ffcf6b&area=true&area_color=ff5c8a&hide_border=true&custom_title=Contribution%20Activity" width="95%"/> 
-<br>
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=170821&color=ff9db3&line=ff2e9a&point=ffcf6b&area=true&area_color=ff5c8a&hide_border=true)
 
 <br/><br/>
 
