@@ -34,14 +34,16 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY WORKING IN -->
+<!-- CURRENTLY WORKING IN (skillicons — compact, no cache issues) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/currentlyworking-header.svg?v=2" alt="Currently Working In"/>
+<img src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/assets/currentlyworking-header.svg" alt="Currently Working In"/>
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/currently-working-pink.svg?v=1" alt="Currently Working In Tech Stack" width="80%"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,git,figma&theme=dark" alt="Tech Stack"/>
+</a>
 
 <br/><br/>
 
@@ -50,10 +52,10 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH (pink theme, replaces old broken stats card) -->
+<!-- ACTIVITY GRAPH (red/black theme) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=170821&color=ff9db3&line=ff2e9a&point=ffcf6b&area=true&area_color=ff5c8a&hide_border=true&custom_title=Contribution%20Activity" width="95%"/> 
+<img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=000000&color=ff2020&line=ff2020&point=ffffff&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 <br/><br/>
 
