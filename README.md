@@ -32,14 +32,12 @@
 <!-- THE NEXT COMMIT / CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/activitylog-header.svg?v=4f5a638" alt="The Next Commit"/>
-
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/activitylog-header.svg?v=1" alt="Commit History"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg" width="94%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake.svg?v=2" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/github-snake-dark.svg?v=2" width="94%"/>
 </picture>
 
 <br/><br/>
