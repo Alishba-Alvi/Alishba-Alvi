@@ -1,35 +1,28 @@
-name: Update Assets Cache
+name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
-    paths:
-      - 'assets/**'
+  workflow_dispatch:
 
 jobs:
-  update:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Alishba-Alvi
+          outputs: |
+            dist/github-snake.svg?color_snake=%23ffe9a8&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
+            dist/github-snake-dark.svg?color_snake=%23ffe9a8&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
 
-      - name: Purge jsDelivr cache for all assets
-        run: |
-          for file in banner.svg badge-linkedin.svg badge-email.svg letstalk-header.svg activitylog-header.svg; do
-            echo "Purging $file..."
-            curl -s "https://purge.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/$file"
-            echo ""
-          done
-
-      - name: Bump cache-buster on every asset URL in README
-        run: |
-          SHA=$(git rev-parse --short HEAD)
-          sed -i -E "s#(assets/[A-Za-z0-9_-]+\.svg)(\?v=[a-zA-Z0-9]+)?\"#\1?v=${SHA}\"#g" README.md
-
-      - name: Commit updated README
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || git commit -m "chore: bust asset cache [skip ci]"
-          git push
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
