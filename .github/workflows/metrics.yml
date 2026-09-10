@@ -12,6 +12,9 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
@@ -19,10 +22,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Alishba-Alvi
           template: classic
-          base: "header, activity, metadata"
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          config_timezone: Asia/Karachi
+          base: "header, activity"
+
+      - name: Verify file was created
+        run: ls -la dist/
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
