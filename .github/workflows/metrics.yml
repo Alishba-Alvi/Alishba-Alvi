@@ -10,14 +10,11 @@ on:
 
 permissions:
   contents: write
-  
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Create output directory
-        run: mkdir -p dist
-
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
@@ -26,14 +23,3 @@ jobs:
           user: Alishba-Alvi
           template: classic
           base: "header, activity"
-
-      - name: Verify file was created
-        run: ls -la dist/
-
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
