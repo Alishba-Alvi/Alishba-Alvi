@@ -1,0 +1,35 @@
+<svg width="500" height="140" viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="footSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#170821"/>
+      <stop offset="100%" stop-color="#3a1240"/>
+    </linearGradient>
+    <clipPath id="footType">
+      <rect x="60" y="46" width="0" height="30">
+        <animate attributeName="width" values="0;380;380;0;0" keyTimes="0;0.3;0.75;0.95;1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="500" height="140" fill="url(#footSky)"/>
+
+  <polygon points="0,110 40,80 80,110" fill="#3a1848"/>
+  <polygon points="60,110 100,70 140,110" fill="#4a2258"/>
+  <polygon points="120,110 160,85 200,110" fill="#3a1848"/>
+  <polygon points="300,110 340,85 380,110" fill="#3a1848"/>
+  <polygon points="360,110 400,70 440,110" fill="#4a2258"/>
+  <polygon points="420,110 460,80 500,110" fill="#3a1848"/>
+
+  <rect x="0" y="110" width="500" height="30" fill="#0c0512"/>
+
+  <g clip-path="url(#footType)">
+    <text x="60" y="68" font-size="22" font-weight="bold" fill="#ffcf6b">SEE YOU IN THE NEXT COMMIT.</text>
+  </g>
+  <rect x="440" y="46" width="10" height="24" fill="#ff5c8a">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="440" cy="24" r="10" fill="#ffe9a8" opacity="0.85">
+    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
