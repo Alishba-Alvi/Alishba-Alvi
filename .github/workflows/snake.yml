@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -12,15 +12,28 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Alishba-Alvi
           outputs: |
-            dist/github-snake.svg?color_snake=%233a1848&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
-            dist/github-snake-dark.svg?color_snake=%233a1848&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
+            dist/github-snake.svg?color_snake=%23ffe9a8&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
+            dist/github-snake-dark.svg?color_snake=%23ffe9a8&color_dots=%23eee4f0,%23ffc2d1,%23ff6f96,%23e0483f,%23ffcf6b
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Alishba-Alvi
+          template: classic
+          base: "header, activity, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Karachi
+
+      - name: Deploy all to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
