@@ -55,7 +55,7 @@
 <!-- ACTIVITY GRAPH (red/black theme) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Alvi&bg_color=000000&color=ff2020&line=ff2020&point=ffffff&area=true&area_color=1a0000&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img alt="streak stats" src="https://streak-stats.demolab.com/?user=Alishba-Alvi&theme=dark&background=000000&border=000000&ring=ff2020&fire=ff2020&currStreakLabel=ff2020&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa" width="80%"/>
 
 <br/><br/>
 
