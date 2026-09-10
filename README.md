@@ -52,17 +52,20 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH (red/black theme) -->
+<!-- ACTIVITY GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img alt="streak stats" src="https://streak-stats.demolab.com/?user=Alishba-Alvi&theme=dark&background=000000&border=000000&ring=ff2020&fire=ff2020&currStreakLabel=ff2020&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa" width="80%"/>
+<img
+  src="https://github-readme-activity-graph-eight-sandy.vercel.app/graph?username=Alishba-Alvi"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
 
 <br/><br/>
 
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
 <br/><br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
