@@ -33,7 +33,7 @@
 <!-- ACTIVITY / METRICS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img alt="metrics" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/metrics.svg?v=1" width="95%"/>
+<img alt="metrics" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/metrics.svg?v=3" width="95%"/>
 
 <br/><br/>
 
