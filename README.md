@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- BANNER — pixel style, dark pink -->
+<!-- BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
@@ -29,29 +29,40 @@
 
 <br/><br/>
 
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=1" alt=""/>
+
+<br/><br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY / METRICS -->
+<!-- METRICS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img alt="metrics" src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/output/metrics.svg?v=3" width="95%"/>
 
 <br/><br/>
 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=1" alt=""/>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CURRENTLY WORKING IN -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/currentlyworking-header.svg?v=1" alt="Currently Working In"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/currentlyworking-header.svg?v=2" alt="Currently Working In"/>
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/tech-badges.svg?v=1" alt="tech stack"/>
+<img src="https://img.shields.io/badge/React-170821?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
+<img src="https://img.shields.io/badge/TypeScript-170821?style=for-the-badge&logo=typescript&logoColor=3178C6" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-170821?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
+<img src="https://img.shields.io/badge/HTML5-170821?style=for-the-badge&logo=html5&logoColor=E34F26" height="32"/>
+<img src="https://img.shields.io/badge/CSS3-170821?style=for-the-badge&logo=css3&logoColor=1572B6" height="32"/>
+<br/>
+<img src="https://img.shields.io/badge/Redux-170821?style=for-the-badge&logo=redux&logoColor=764ABC" height="32"/>
+<img src="https://img.shields.io/badge/NestJS-170821?style=for-the-badge&logo=nestjs&logoColor=E0234E" height="32"/>
+<img src="https://img.shields.io/badge/PostgreSQL-170821?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32"/>
+<img src="https://img.shields.io/badge/TypeORM-170821?style=for-the-badge&logo=typeorm&logoColor=FE0803" height="32"/>
 
 <br/><br/>
 
@@ -59,6 +70,6 @@
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/nextcommit-footer.svg?v=1" alt="See you in the next commit"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/nextcommit-footer.svg?v=1" alt="See you in the next commit" width="100%"/>
 
 </div>
