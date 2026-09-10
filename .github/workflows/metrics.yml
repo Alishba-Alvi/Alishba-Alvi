@@ -23,3 +23,24 @@ jobs:
           user: Alishba-Alvi
           template: classic
           base: "header, activity"
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          config_theme: dark
+          config_theme_style: |
+            :root {
+              --color-titles: #ffcf6b;
+              --color-text: #f3e9ff;
+              --color-meta-text: #d9b8e8;
+              --color-icons: #ff8fb3;
+              --color-calendar-limits: #170821;
+              --color-calendar-graph-day-L1-bg: #2a1035;
+              --color-calendar-graph-day-L2-bg: #4a2258;
+              --color-calendar-graph-day-L3-bg: #ff5c8a;
+              --color-calendar-graph-day-L4-bg: #ffcf6b;
+              --color-border: #3a1848;
+            }
+            body { background-color: #170821 !important; }
+            .card { background-color: #170821 !important; border-color: #3a1848 !important; }
