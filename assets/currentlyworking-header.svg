@@ -1,0 +1,20 @@
+<svg width="380" height="46" viewBox="0 0 380 46" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="txt4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff9db3"/>
+      <stop offset="100%" stop-color="#ffcf6b"/>
+    </linearGradient>
+  </defs>
+
+  <text x="190" y="26" font-size="20" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
+  <text x="188" y="24" font-size="20" font-weight="bold" fill="url(#txt4)" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
+
+  <rect x="120" y="36" width="10" height="4" fill="#ff5c8a"/>
+  <rect x="134" y="36" width="10" height="4" fill="#ff9db3"/>
+  <rect x="148" y="36" width="10" height="4" fill="#ffcf6b"/>
+  <rect x="162" y="36" width="10" height="4" fill="#ffcf6b"/>
+  <rect x="176" y="36" width="10" height="4" fill="#ffcf6b"/>
+  <rect x="190" y="36" width="10" height="4" fill="#ff9db3"/>
+  <rect x="204" y="36" width="10" height="4" fill="#ff5c8a"/>
+  <rect x="218" y="36" width="10" height="4" fill="#ff5c8a"/>
+</svg>
