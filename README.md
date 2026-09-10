@@ -50,18 +50,17 @@
 <img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2" alt=""/>
 
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ACTIVITY GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://github-readme-activity-graph-eight-sandy.vercel.app/graph?username=Alishba-Alvi&bg_color=FFF4F8&color=352D31&line=8F1747&point=A52A59&area_color=F3D1DE&area=true&hide_border=true"
+  src="https://github-readme-activity-graph-eight-sandy.vercel.app/graph?username=Alishba-Alvi&bg_color=FFF9FA&color=4A3B40&line=7F2850&point=9A4168&area_color=F2E3E8&area=true&hide_border=true"
   alt="GitHub Activity Graph"
   width="100%"
 />
 
-<br/><br/>
+<br/>
 
 <img
   src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2"
