@@ -56,12 +56,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://github-readme-activity-graph-eight-sandy.vercel.app/graph?username=Alishba-Alvi&bg_color=FFFFFF&color=352D31&line=8F1747&point=A52A59&area_color=F6E7ED&area=true&hide_border=true"
+  src="https://github-readme-activity-graph-eight-sandy.vercel.app/graph?username=Alishba-Alvi&bg_color=FFF4F8&color=352D31&line=8F1747&point=A52A59&area_color=F3D1DE&area=true&hide_border=true"
   alt="GitHub Activity Graph"
   width="100%"
 />
 
-<br/>
+<br/><br/>
 
 <img
   src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/divider.svg?v=2"
