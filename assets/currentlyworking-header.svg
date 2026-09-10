@@ -1,20 +1,27 @@
-<svg width="380" height="46" viewBox="0 0 380 46" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+<svg width="420" height="56" viewBox="0 0 420 56" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
   <defs>
-    <linearGradient id="txt4" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-150" y1="0" x2="0" y2="0">
       <stop offset="0%" stop-color="#ff9db3"/>
+      <stop offset="45%" stop-color="#fff6d0"/>
+      <stop offset="55%" stop-color="#fff6d0"/>
       <stop offset="100%" stop-color="#ffcf6b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 570 0; 0 0" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
 
-  <text x="190" y="26" font-size="20" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
-  <text x="188" y="24" font-size="20" font-weight="bold" fill="url(#txt4)" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
+  <circle cx="60" cy="14" r="2.5" fill="#ffe9a8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="352" cy="16" r="2" fill="#ff9db3">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="40" r="2.3" fill="#ffcf6b">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="44" cy="42" r="2" fill="#ff5c8a">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
 
-  <rect x="120" y="36" width="10" height="4" fill="#ff5c8a"/>
-  <rect x="134" y="36" width="10" height="4" fill="#ff9db3"/>
-  <rect x="148" y="36" width="10" height="4" fill="#ffcf6b"/>
-  <rect x="162" y="36" width="10" height="4" fill="#ffcf6b"/>
-  <rect x="176" y="36" width="10" height="4" fill="#ffcf6b"/>
-  <rect x="190" y="36" width="10" height="4" fill="#ff9db3"/>
-  <rect x="204" y="36" width="10" height="4" fill="#ff5c8a"/>
-  <rect x="218" y="36" width="10" height="4" fill="#ff5c8a"/>
+  <text x="210" y="28" font-size="20" font-weight="bold" fill="#3a1848" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
+  <text x="208" y="26" font-size="20" font-weight="bold" fill="url(#shimmer)" text-anchor="middle" letter-spacing="3">CURRENTLY WORKING IN</text>
 </svg>
