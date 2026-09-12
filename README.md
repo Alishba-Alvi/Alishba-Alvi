@@ -37,7 +37,7 @@
 <!-- CURRENTLY WORKING IN (skillicons — compact, no cache issues) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Alishba-Alvi/Alishba-Alvi/main/assets/currentlyworking-header.svg" alt="Currently Working In"/>
+<img src="https://cdn.jsdelivr.net/gh/Alishba-Alvi/Alishba-Alvi@main/assets/currentlyworking-header.svg?v=5" alt="Currently Working In"/>
 
 <br/>
 
